@@ -1,0 +1,73 @@
+.div1{
+    text-align: center;
+    background-color: rgb(47, 46, 46);
+    padding: 25px;
+    color: rgb(255, 255, 255);
+}
+.div1 p{
+width: 40%;
+margin: 0 auto;
+}
+.div3{
+    display: flex;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 80px;
+    color: aliceblue;
+
+}
+.div3 p{
+   
+        margin: 0 auto;
+}
+.div5{
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 80px;
+    color: aliceblue;
+}
+.div4{
+    margin-left: 20px;
+    margin-top: 80px;
+    display: flex;
+    background-color: rgb(39, 35, 35);
+    padding: 60px;
+    color: aliceblue;
+}
+.buto{
+    margin-left: 150px;
+    margin-top: 45px;
+
+}
+.byosenyuma{
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 200px;
+    color: aliceblue;
+}
+.nyuma{
+    margin-left: 15px;
+}
+.photo{
+    margin-left: 150px;
+}
+.div0{
+    background-color: rgb(0, 0, 0);
+    padding: 25px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.div0 a{
+    text-decoration: none;
+    margin-left: 70px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.pic{
+    margin-right: 80px;
+}
+.view{
+    margin-top: 20px;
+}
